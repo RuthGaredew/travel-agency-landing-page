@@ -10,7 +10,7 @@ function Navbar() {
 
   return (
     <>
-      <header class="absolute inset-x-0 top-0 z-0">
+      <header className="absolute inset-x-0 top-0 z-0 bg-white shadow-lg p-4">
         <nav
           aria-label="Global"
           class="flex items-center justify-between  lg:px-3"

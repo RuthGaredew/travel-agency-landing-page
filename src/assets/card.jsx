@@ -2,7 +2,7 @@ import React from "react";
 
 const Card = ({ image, place, price, duration }) => {
   return (
-    <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white lg:w-1/3">
+    <div className="max-w-sm rounded-lg shadow-md overflow-hidden  bg-white lg:w-1/3">
       <img
         src={image}
         alt={place}

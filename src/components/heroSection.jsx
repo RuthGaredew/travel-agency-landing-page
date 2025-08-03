@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export default function HeroSection() {
   return (
     <>
-      <div className="mx-auto flex flex-col-reverse lg:flex-row items-center max-w-7xl sm:py-48 lg:py-56">
+      <div className="mx-auto flex flex-col-reverse lg:flex-row items-center max-w-7xl sm:py-8 lg:py-16">
         <div className="text-left lg:w-2/3">
         <div className="hidden sm:mb-8 sm:flex sm:justify-left ">
           <p className="text-sm/2.0 text-orange-400 font-bold">

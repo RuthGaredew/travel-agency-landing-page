@@ -12,7 +12,7 @@ const Testimonials = () => {
           </div>
           <div className="flex flex-row lg:flex-col justify-center items-left gap-4 rounded-lg shadow-lg bg-white p-6 lg:w-1/2">
           <img
-            src="src\assets\avater.jpeg"
+            src="./img/avater.jpeg"
             className="w-17 h-17 rounded-full "/>
           <p className="text-left text-gray-600 mb-4">“On the Windows talking painted pasture yet its express parties use. Sure last upon he same as knew next. Of believed or diverted no.”</p>
           <p className="text-left text-gray-800 font-semibold mb-2">John Doe</p>

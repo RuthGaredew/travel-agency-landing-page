@@ -10,15 +10,15 @@ function Navbar() {
 
   return (
     <>
-      <header className="absolute inset-x-0 top-0 z-0 bg-white shadow-lg p-4">
+      <header className="bg-white text-gray-800 p-4 flex item-right justify-center  fixed top-0 left-0 right-0 z-10 shadow-lg">
         <nav
           aria-label="Global"
           class="flex items-center justify-between  lg:px-3"
         >
-          <div className="flex lg:flex-1">
+          <div className="flex lg:flex-1 items-left">
             <img
               alt="My Company"
-              src="src\assets\logo.jpg"
+              src="./img/logo.jpg"
               className="h-8 w-auto"
             />
           </div>

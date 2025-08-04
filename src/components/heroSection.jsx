@@ -37,7 +37,7 @@ export default function HeroSection() {
         </div>
         </div>
         <div className="lg:w-1/3 lg:mt-0 item-right pl-5"> 
-          <img alt="Travel" src="src/assets/travel.jpg" className="w-76.5 h-76.4 object-cover"/>
+          <img alt="Travel" src="./img/travel.jpg" className="w-76.5 h-76.4 object-cover"/>
         </div>
       </div>
     </>

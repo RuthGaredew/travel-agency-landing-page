@@ -12,7 +12,7 @@ const OfferedServices = () => {
       <div className="grid grid-row-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 px-4">
         <div className="flex flex-col justify-center gap-8 ">
           <img
-            src="src\assets\satellite.png"
+            src="./img/satellite.png"
             alt="Satellite Icon"
             className="h-16 w-16 text-gray-900 item-center mx-24 mb-3"
           />
@@ -25,7 +25,7 @@ const OfferedServices = () => {
         </div>
         <div className="flex flex-col bg-white-800 border-white-2 rounded justify-center gap-8">
           <img
-            src="src\assets\plane.png"
+            src="./img/plane.png"
             alt="Airplane Icon"
             className="h-16 w-16 text-gray-900 item-center mx-24 mb-3"
           />
@@ -39,7 +39,7 @@ const OfferedServices = () => {
         </div>
         <div className="flex flex-col justify-center gap-8">
           <img
-            src="src\assets\mic.png"
+            src="./img/mic.png"
             alt="Micraphone Icon"
             className="h-16 w-16 text-gray-900 item-center mx-24 mb-3"
           />
@@ -53,7 +53,7 @@ const OfferedServices = () => {
         </div>
         <div className="flex flex-col justify-center gap-8 ">
           <img
-            src="src\assets\setting.png"
+            src="./img/setting.png"
             alt="Setting Icon"
             className="h-16 w-16 text-gray-900 item-center mx-24 mb-3"
           />

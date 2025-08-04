@@ -11,7 +11,7 @@ const Booking = () => {
           </h1>
           <div className="flex flex-row items-left mt-8">
             <img
-              src="src/assets/destination.png"
+              src="./img/destination.png"
               alt=""
               className="w-10 h-10 rounded-lg mr-4 p-2 shadow-lg "
             />
@@ -26,7 +26,7 @@ const Booking = () => {
           </div>
           <div className="flex flex-row items-left mt-8">
             <img
-              src="src\assets\payment.png"
+              src="./img/payment.png"
               alt=""
               className="w-10 h-10 rounded-lg mr-4 p-2 shadow-lg"
             />
@@ -39,7 +39,7 @@ const Booking = () => {
           </div>
           <div className="flex flex-row items-left mt-8">
             <img
-              src="src/assets/car.png"
+              src="./img/car.png"
               alt=""
               className="w-10 h-10 rounded-lg mr-4 p-2 shadow-lg"
             />
@@ -55,7 +55,7 @@ const Booking = () => {
         </div>
         <SmallCard
           className="flex flex-col lg:flex-row justify-center items-right gap-4 rounded-lg shadow-lg bg-white p-6 lg:w-1/2"
-          image="src/assets/trip.jpeg"
+          image="./img/trip.jpeg"
           title="Trip to Greece"
           date="14-29 June"
           name="by Robbin joseph"

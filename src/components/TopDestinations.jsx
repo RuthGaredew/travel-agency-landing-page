@@ -11,19 +11,19 @@ const Destinations = () => {
       <div className="flex flex-row gap-6 px-4">
       <Card
         
-        image="src/assets/rome.jpg"
+        image="./img/rome.jpg"
         place="Rome Italy"
         price="$5,42k"
         duration="10 Days Trip"
         
       />
       <Card
-        image="src/assets/paris.jpg"
+        image="./img/paris.jpg"
         place="Paris France"
         price="$4,20k"
         duration="8 Days Trip"/>
       <Card
-        image="src/assets/london.jpg"
+        image="./img/london.jpg"
         place="London UK"
         price="$6,00k"
         duration="12 Days Trip"
